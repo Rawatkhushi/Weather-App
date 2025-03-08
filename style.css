@@ -171,3 +171,20 @@ body::before {
   height: 35px;
 }
 /*end section : weather-info*/
+
+/* Section:message */
+.section-message img {
+  height: 180px;
+  width: fit-content;
+}
+
+.section-message {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 15px;
+  margin-top: 25%;
+}
+
+/*  end Section:message */
